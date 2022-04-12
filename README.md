@@ -1,3 +1,9 @@
+## React notes app - To add or delete notes
+
+Try it now.
+
+https://react-notes-apps.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
